@@ -1,0 +1,27 @@
+_repo: Ptomaine-Street--The-Tale-of-Warble-Petticoat_8386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: http://en.wikipedia.org/wiki/Carolyn_Wells
+description: A parody on Sinclair Lewis's "Main Street."
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lewis, Sinclair, 1885-1951 -- Parodies, imitations, etc.'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'Ptomaine Street: The Tale of Warble Petticoat'
+url: http://www.gutenberg.org/ebooks/8386
